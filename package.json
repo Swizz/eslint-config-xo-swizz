@@ -1,0 +1,26 @@
+{
+  "name": "eslint-config-xo-swizz",
+  "version": "0.10.0",
+  "description": "ESLint shareable config for Swizz with XO enabled",
+  "license": "MIT",
+  "repository": "swizz/eslint-config-xo-swizz",
+  "author": "Quentin Gerodel",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "jsx",
+    "xo",
+    "eslintconfig",
+    "eslint",
+    "config"
+  ],
+  "devDependencies": {
+    "eslint-config-xo-react": "^0.10.0",
+    "eslint-plugin-react": "^6.9.0",
+    "xo": "^0.17.1"
+  },
+  "peerDependencies": {
+    "eslint": ">= 3"
+  }
+}
