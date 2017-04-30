@@ -13,14 +13,19 @@
     "xo",
     "eslintconfig",
     "eslint",
-    "config"
+    "config",
+    "swizz"
   ],
-  "devDependencies": {
+  "dependencies": {
     "eslint-config-xo-react": "^0.10.0",
     "eslint-plugin-react": "^6.9.0",
     "xo": "^0.17.1"
   },
   "peerDependencies": {
     "eslint": ">= 3"
+  },
+  "xo": {
+    "semicolon": false,
+    "space": true
   }
 }
