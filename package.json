@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-xo-swizz",
-  "version": "0.10.0",
+  "version": "0.11.0",
   "description": "ESLint shareable config for Swizz with XO enabled",
   "license": "MIT",
   "repository": "swizz/eslint-config-xo-swizz",
