@@ -14,7 +14,9 @@ $ npm install --save-dev eslint-config-xo-swizz
 	"xo": {
 		"extends": "xo-swizz",
 		"settings": {
-			"pragma": "Snabbdom"
+			"react": {
+				"pragma": "Snabbdom"
+			}
 		}
 	}
 }
