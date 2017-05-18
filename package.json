@@ -17,9 +17,9 @@
     "swizz"
   ],
   "dependencies": {
-    "eslint-config-xo-react": "^0.11.1",
-    "eslint-plugin-react": "^7.0.0",
-    "xo": "^0.17.1"
+    "eslint-config-xo-react": "^0.12.0",
+    "eslint-plugin-react": "^7.0.1",
+    "xo": "^0.18.2"
   },
   "peerDependencies": {
     "eslint": ">= 3"
