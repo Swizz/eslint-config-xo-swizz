@@ -10,15 +10,15 @@ $ npm install --save-dev eslint-config-xo-swizz
 
 ```json
 {
-	"name": "my-awesome-project",
-	"xo": {
-		"extends": "xo-swizz",
-		"settings": {
-			"react": {
-				"pragma": "Snabbdom"
-			}
-		}
-	}
+  "name": "my-awesome-project",
+  "xo": {
+  "extends": "xo-swizz",
+    "settings": {
+      "react": {
+        "pragma": "Snabbdom"
+      }
+    }
+  }
 }
 ```
 
